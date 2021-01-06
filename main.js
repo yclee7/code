@@ -4,5 +4,5 @@ console.log('Hello World111hooo1111111');
 console.log('Hello World22222');
 
 
-let a = "bbbbstric test";
+let a = "bbbbstric test합니다.";
 console.log(a);
